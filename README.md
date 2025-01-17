@@ -27,7 +27,7 @@ Follow these steps to get a local copy up and running:
 Clone the Repository
 
 Copy code
-
+https://github.com/euii-ii/retro-website.git
 
 Navigate to the Project Directory
 
